@@ -1,0 +1,43 @@
+img{
+    box-align: right;
+    width: 200px;
+    border: 4px;
+    box-shadow: 10px 10px 15px black;
+  }
+.blog{
+      padding: 10px;
+      color: white;
+ }
+body{
+    background-image: url("https://images.unsplash.com/photo-1690896649495-b02e330b32e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMDR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=600&q=60https://images.unsplash.com/photo-1690896649495-b02e330b32e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMDR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=600&q=60");
+    background-repeat: no;
+    background-size: cover;
+  }
+.head{
+    background-color:black;
+    font-size: 30;
+    text-align: center;
+    color: white;
+    margin: 0;
+    font-family: roboto;
+  }
+ h3{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 0;
+  }
+table{
+    background-color: black;
+    color: white;
+    align: center;
+    position: bottom;
+    margin-left: 45%;
+    box-shadow: 10px 10px 15px black;
+  }
+p{
+  font-family: oxygen;
+}
+h4{
+  font-family: montserrat;
+}
